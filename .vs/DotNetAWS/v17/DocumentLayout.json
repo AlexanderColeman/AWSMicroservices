@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acole\\Desktop\\DotNetAWS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7577D1F9-382F-4402-A2FB-B0DCEEAA4FFF}|CloudWeather.Report\\CloudWeather.Report.csproj|c:\\users\\acole\\desktop\\dotnetaws\\cloudweather.report\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7577D1F9-382F-4402-A2FB-B0DCEEAA4FFF}|CloudWeather.Report\\CloudWeather.Report.csproj|solutionrelative:cloudweather.report\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Report\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CloudWeather.Report\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Report\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CloudWeather.Report\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T01:24:04.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
