@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\acole\\Desktop\\DotNetAWS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7577D1F9-382F-4402-A2FB-B0DCEEAA4FFF}|CloudWeather.Report\\CloudWeather.Report.csproj|c:\\users\\acole\\desktop\\dotnetaws\\cloudweather.report\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7577D1F9-382F-4402-A2FB-B0DCEEAA4FFF}|CloudWeather.Report\\CloudWeather.Report.csproj|solutionrelative:cloudweather.report\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{09A5222F-935A-4F67-B295-1294429FFCB1}|CloudWeather.Temperature\\CloudWeather.Temperature.csproj|c:\\users\\acole\\desktop\\dotnetaws\\cloudweather.temperature\\cloudweather.temperature.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09A5222F-935A-4F67-B295-1294429FFCB1}|CloudWeather.Temperature\\CloudWeather.Temperature.csproj|solutionrelative:cloudweather.temperature\\cloudweather.temperature.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7577D1F9-382F-4402-A2FB-B0DCEEAA4FFF}|CloudWeather.Report\\CloudWeather.Report.csproj|c:\\users\\acole\\desktop\\dotnetaws\\cloudweather.report\\cloudweather.report.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7577D1F9-382F-4402-A2FB-B0DCEEAA4FFF}|CloudWeather.Report\\CloudWeather.Report.csproj|solutionrelative:cloudweather.report\\cloudweather.report.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE08DB-688A-406C-84B4-351505A5234D}|CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj|c:\\users\\acole\\desktop\\dotnetaws\\cloudweather.precipitation\\cloudweather.precipitation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDFE08DB-688A-406C-84B4-351505A5234D}|CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj|solutionrelative:cloudweather.precipitation\\cloudweather.precipitation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE08DB-688A-406C-84B4-351505A5234D}|CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj|c:\\users\\acole\\desktop\\dotnetaws\\cloudweather.precipitation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE08DB-688A-406C-84B4-351505A5234D}|CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj|solutionrelative:cloudweather.precipitation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Report\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "CloudWeather.Report\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Report\\Properties\\launchSettings.json",
-              "RelativeToolTip": "CloudWeather.Report\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-20T01:24:04.855Z",
+              "Title": "CloudWeather.Temperature",
+              "DocumentMoniker": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
+              "RelativeDocumentMoniker": "CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
+              "ToolTip": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
+              "RelativeToolTip": "CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T22:48:47.617Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CloudWeather.Report",
+              "DocumentMoniker": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Report\\CloudWeather.Report.csproj",
+              "RelativeDocumentMoniker": "CloudWeather.Report\\CloudWeather.Report.csproj",
+              "ToolTip": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Report\\CloudWeather.Report.csproj",
+              "RelativeToolTip": "CloudWeather.Report\\CloudWeather.Report.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T22:48:40.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CloudWeather.Precipitation",
+              "DocumentMoniker": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj",
+              "RelativeDocumentMoniker": "CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj",
+              "ToolTip": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj",
+              "RelativeToolTip": "CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T22:42:49.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Precipitation\\Program.cs",
+              "RelativeDocumentMoniker": "CloudWeather.Precipitation\\Program.cs",
+              "ToolTip": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Precipitation\\Program.cs",
+              "RelativeToolTip": "CloudWeather.Precipitation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:36:41.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }

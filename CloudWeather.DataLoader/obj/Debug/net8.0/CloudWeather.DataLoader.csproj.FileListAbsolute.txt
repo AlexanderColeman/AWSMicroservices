@@ -12,3 +12,4 @@ C:\Users\acole\Desktop\DotNetAWS\CloudWeather.DataLoader\obj\Debug\net8.0\refint
 C:\Users\acole\Desktop\DotNetAWS\CloudWeather.DataLoader\obj\Debug\net8.0\CloudWeather.DataLoader.pdb
 C:\Users\acole\Desktop\DotNetAWS\CloudWeather.DataLoader\obj\Debug\net8.0\CloudWeather.DataLoader.genruntimeconfig.cache
 C:\Users\acole\Desktop\DotNetAWS\CloudWeather.DataLoader\obj\Debug\net8.0\ref\CloudWeather.DataLoader.dll
+C:\Users\acole\Desktop\DotNetAWS\CloudWeather.DataLoader\obj\Debug\net8.0\CloudWeather.DataLoader.sourcelink.json
