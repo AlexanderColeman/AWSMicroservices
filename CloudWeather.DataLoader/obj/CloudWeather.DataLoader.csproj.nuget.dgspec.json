@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj": {}
+    "C:\\Users\\acole\\Desktop\\AWSMicroservice\\AWSMicroservices\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj": {
+    "C:\\Users\\acole\\Desktop\\AWSMicroservice\\AWSMicroservices\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
+        "projectUniqueName": "C:\\Users\\acole\\Desktop\\AWSMicroservice\\AWSMicroservices\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
         "projectName": "CloudWeather.DataLoader",
-        "projectPath": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
+        "projectPath": "C:\\Users\\acole\\Desktop\\AWSMicroservice\\AWSMicroservices\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
         "packagesPath": "C:\\Users\\acole\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.DataLoader\\obj\\",
+        "outputPath": "C:\\Users\\acole\\Desktop\\AWSMicroservice\\AWSMicroservices\\CloudWeather.DataLoader\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acole\\AppData\\Roaming\\NuGet\\NuGet.Config",

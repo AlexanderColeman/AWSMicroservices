@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wSPNBb9UYL39o643mVAwFMracgLf0gw32Yg1JfzjQOyrXxlevksv8wgxWFO9FkXIM5c/cynmvFTUJdp/nqyC0w==",
+  "dgSpecHash": "sBmgdt4OT5fNkNLpHss5/mSZXJJ8BOijjVACFFhVVt+W4sEJ9onuCOGMeMWt/Zk7na/LslXwGEBvTJR/Wx8P8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
+  "projectFilePath": "C:\\Users\\acole\\Desktop\\AWSMicroservice\\AWSMicroservices\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

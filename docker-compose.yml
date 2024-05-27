@@ -1,0 +1,25 @@
+version: '3.4'
+
+networks:
+  dev:
+    driver: bridge
+
+services:
+
+  cloud_weather:
+    image: postgres:latest
+    container_name: app_db
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=cloud_weather
+    ports:
+      - "5433:5432"
+    restart: always
+    volumes:
+      - cloud_weather:/var/lib/postgresql/data
+    networks:
+      - dev
+
+volumes: 
+  cloud_weather:

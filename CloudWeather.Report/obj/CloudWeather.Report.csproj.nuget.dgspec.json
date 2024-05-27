@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Report\\CloudWeather.Report.csproj": {}
+    "C:\\Users\\acole\\Desktop\\AWSMicroservice\\AWSMicroservices\\CloudWeather.Report\\CloudWeather.Report.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Report\\CloudWeather.Report.csproj": {
+    "C:\\Users\\acole\\Desktop\\AWSMicroservice\\AWSMicroservices\\CloudWeather.Report\\CloudWeather.Report.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Report\\CloudWeather.Report.csproj",
+        "projectUniqueName": "C:\\Users\\acole\\Desktop\\AWSMicroservice\\AWSMicroservices\\CloudWeather.Report\\CloudWeather.Report.csproj",
         "projectName": "CloudWeather.Report",
-        "projectPath": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Report\\CloudWeather.Report.csproj",
+        "projectPath": "C:\\Users\\acole\\Desktop\\AWSMicroservice\\AWSMicroservices\\CloudWeather.Report\\CloudWeather.Report.csproj",
         "packagesPath": "C:\\Users\\acole\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acole\\Desktop\\DotNetAWS\\CloudWeather.Report\\obj\\",
+        "outputPath": "C:\\Users\\acole\\Desktop\\AWSMicroservice\\AWSMicroservices\\CloudWeather.Report\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acole\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,23 +45,43 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.30, )"
+              "version": "[7.0.13, )"
             },
-            "Microsoft.Extensions.Logging": {
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[8.0.2, )"
             },
-            "Microsoft.Extensions.Options": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[1.19.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[6.0.29, )"
+              "version": "[7.0.11, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.17, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
